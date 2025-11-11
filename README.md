@@ -30,3 +30,6 @@ Model Evaluation and Accuracy Comparison
 🏁 Results
 
 The Naive Bayes model outperformed the Decision Tree model, achieving higher accuracy in predicting loan eligibility.
+
+the code file is attached 
+
